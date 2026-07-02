@@ -1,4 +1,4 @@
-# Warframe — HUD Colors (Horizon Claude)
+# Warframe — HUD Colors
 
 > **Pre-set:** `default`
 
