@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Description": "Horizon Light Claude - desktop theme for KDE Plasma 6",
+        "Icon": "preferences-desktop-theme",
+        "Id": "HorizonLightClaude",
+        "License": "GPL-3.0-or-later",
+        "Name": "Horizon Light Claude",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "Version": "1.0"
+    }
+}
