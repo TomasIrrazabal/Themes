@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Description": "Horizon Claude - dynamic light/dark wallpaper",
+        "Id": "HorizonClaude",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Horizon Claude"
+    },
+    "X-KDE-CrossFade": true
+}
