@@ -14,7 +14,7 @@
 | ![](https://placehold.co/24/F9FFFF/F9FFFF.png) | Energy | Cherub | `R17` | `C3` | `#F9FFFF` |
 | ![](https://placehold.co/24/9DF700/9DF700.png) | Object Health | Accessibility | `R17` | `C3` | `#9DF700` |
 | ![](https://placehold.co/24/FE7E00/FE7E00.png) | Restore Shields and Health | Colors Of Pride | `R4` | `C1` | `#FE7E00` |
-| ![](https://placehold.co/24/FF515A/FF515A.png) | Buffs | Cherub | `R10` | `C3` | `#FF515A` |
+| ![](https://placehold.co/24/FF515A/FF515A.png) | Buffs | Cherub | `R9` | `C3` | `#FF515A` |
 | ![](https://placehold.co/24/76105C/76105C.png) | Debuffs | Hallow's Eve | `R1` | `C2` | `#76105C` |
 | ![](https://placehold.co/24/26D5A8/26D5A8.png) | Enemy Energy | Cavia | `R7` | `C1` | `#26D5A8` |
 
