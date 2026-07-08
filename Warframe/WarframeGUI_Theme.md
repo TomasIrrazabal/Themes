@@ -29,7 +29,7 @@
 
 | Color | Slot | Palette | Row | Column | Hex |
 |:-----:|------|---------|-----|--------|-----|
-| ![](https://placehold.co/24/4F0C87/4F0C87.png) | Ability Damage | Cherub | `R12` | `C1` | `#4F0C87` |
+| ![](https://placehold.co/24/4F0C87/4F0C87.png) | Ability Damage | Cherub | `R13` | `C1` | `#4F0C87` |
 
 ---
 
