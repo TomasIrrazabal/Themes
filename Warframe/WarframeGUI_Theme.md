@@ -7,7 +7,7 @@
 | Color | Slot | Palette | Row | Column | Hex |
 |:-----:|------|---------|-----|--------|-----|
 | ![](https://placehold.co/24/26D5A8/26D5A8.png) | Health | Cavia | `R7` | `C1` | `#26D5A8` |
-| ![](https://placehold.co/24/4D2684/4D2684.png) | Shield | Cherub | `R15` | `C1` | `#4D2684` |
+| ![](https://placehold.co/24/4D2684/4D2684.png) | Shield | Cherub | `R13` | `C1` | `#4D2684` |
 | ![](https://placehold.co/24/FB3972/FB3972.png) | Overshield | Tenno II | `R14` | `C5` | `#FB3972` |
 | ![](https://placehold.co/24/4FF7FF/4FF7FF.png) | Overguard | Cavia | `R1` | `C1` | `#4FF7FF` |
 | ![](https://placehold.co/24/ECC16C/ECC16C.png) | Armor | Narmer | `R3` | `C5` | `#ECC16C` |
