@@ -23,7 +23,7 @@
 | Color | Slot | Palette | Row | Column | Hex |
 |:-----:|------|---------|-----|--------|-----|
 | ![](https://placehold.co/24/F9FFFF/F9FFFF.png) | Selected Ability | Cherub | `R17` | `C3` | `#F9FFFF` |
-| ![](https://placehold.co/24/FF515A/FF515A.png) | Unselected Ability | Cherub | `R10` | `C3` | `#FF515A` |
+| ![](https://placehold.co/24/FF515A/FF515A.png) | Unselected Ability | Cherub | `R9` | `C3` | `#FF515A` |
 
 ## Combat Feedback
 
